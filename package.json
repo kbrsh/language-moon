@@ -1,0 +1,14 @@
+{
+  "name": "language-moon",
+  "version": "0.0.1",
+  "description": "Language support for Moon Components",
+  "keywords": [
+    "language",
+    "grammar"
+  ],
+  "repository": "https://github.com/KingPixil/language-moon",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

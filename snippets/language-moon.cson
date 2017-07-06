@@ -1,0 +1,18 @@
+'.moon':
+  'Moon Component':
+    'prefix': 'template'
+    'body': """
+      <template>
+        $2
+      </template>
+
+      <style>
+
+      </style>
+
+      <script>
+        exports = {
+
+        };
+      </script>
+    """
